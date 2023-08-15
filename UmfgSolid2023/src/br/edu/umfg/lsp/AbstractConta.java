@@ -1,11 +1,11 @@
 package br.edu.umfg.lsp;
 
-public class ContaCorrente {
+public abstract class AbstractConta {
     private String cpf;
     private String nome;
     private double saldo;
 
-    public ContaCorrente(String cpf, String nome, double saldo) {
+    protected AbstractConta(String cpf, String nome, double saldo) {
         this.cpf = cpf;
         this.nome = nome;
         this.saldo = saldo;
