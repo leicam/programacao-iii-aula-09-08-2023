@@ -27,7 +27,7 @@ public class InterfaceSegregationPrinciple {
         System.out.println("Renegade: ");
         renegade.acelerar();
         renegade.frear();
-        renegade.ligarQuatroPorQuatro();
+        //renegade.ligarQuatroPorQuatro();
 
         System.out.println("Commander: ");
         commander.acelerar();

@@ -7,7 +7,7 @@ public class Main {
         //SingleResponsiblityPrinciple.Execute();
         //OpenClosedPrinciple.Execute();
         //LiskovSubstitutionPrinciple.execute();
-        InterfaceSegregationPrinciple.execute();
+        //InterfaceSegregationPrinciple.execute();
         DependencyInversionPrinciple.execute();
     }
 }
